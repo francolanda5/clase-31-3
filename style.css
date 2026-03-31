@@ -1,7 +1,6 @@
 body{
 background-color: rgb(10, 10, 34);
 font-family: Arial;
-
 #padre{
 background-color: brown;
 }
@@ -14,6 +13,9 @@ background-color: bisque;
 
 .caja {
     width: 400px;
+}
+
+
 }
     
 

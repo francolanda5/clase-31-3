@@ -1,6 +1,19 @@
 body{
-background-color: blue;
+background-color: rgb(10, 10, 34);
 font-family: Arial;
+
+#padre{
+background-color: brown;
+}
+
+
+#hijo {
+background-color: bisque;
+}
+
+
+.caja {
+    width: 400px;
 }
     
 
